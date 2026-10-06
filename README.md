@@ -68,7 +68,7 @@
 | **Architecture** | Multi-tenant SaaS using **AWS STS AssumeRole** for secure cross-account access, with tenant isolation across all tables |
 | **Backend** | 7 × AWS Lambda, API Gateway (API key auth), DynamoDB (`GPT_servers`, `GPT_alerts`, `GPT_logs`) |
 | **Monitoring & Ops** | EC2 with CloudWatch + SSM agents |
-| **AI Layer** | [![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?logo=openrouter&logoColor=fff)](#) |
+| **AI Layer** | OpenRouter |
 | **Frontend** | Flutter mobile dashboard |
 
 [![Repo](https://img.shields.io/badge/View_Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayan565/devopsGPT)
